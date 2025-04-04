@@ -2,7 +2,12 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div style={{
+        width:'100%',
+        height:'150px',
+        background:'red',
+        
+    }}> Navbar</div>
   )
 }
 
